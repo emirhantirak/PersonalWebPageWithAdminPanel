@@ -1,0 +1,25 @@
+﻿@model PersonalWebPageProject.Models.Entities.Icon
+
+@{
+    ViewBag.Title = "GetanIcon";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>ikon Güncelle</h2>
+<br />
+
+@using (Html.BeginForm("UpdateIcon", "Admin", FormMethod.Post))
+{
+    @Html.LabelFor(x => x.ID)
+    @Html.TextBoxFor(x => x.ID, new { @class = "form-control", @readonly = "readonly" })
+    <br />
+    @Html.LabelFor(x => x.IconPic)
+    @Html.TextBoxFor(x => x.IconPic, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.Link)
+    @Html.TextBoxFor(x => x.Link, new { @class = "form-control" })
+    <br />
+    <button class="btn btn-success">İkon Güncelle</button>
+
+}
+

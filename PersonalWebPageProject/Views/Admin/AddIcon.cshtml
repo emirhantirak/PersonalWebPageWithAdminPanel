@@ -1,0 +1,19 @@
+﻿@model PersonalWebPageProject.Models.Entities.Icon
+
+@{
+    ViewBag.Title = "AddIcon";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Yeni Ikon Ekle</h2>
+<br />
+<form class="form-group" method="post">
+    @Html.LabelFor(x => x.IconPic)
+    @Html.TextBoxFor(x => x.IconPic, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.Link)
+    @Html.TextBoxFor(x => x.Link, new { @class = "form-control" })
+    <br />
+    <button class="btn btn-success">İkon Ekle</button>
+</form>
+

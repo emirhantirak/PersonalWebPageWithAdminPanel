@@ -1,0 +1,25 @@
+﻿@using PersonalWebPageProject.Models.Entities
+@model List<Homepage>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<h2>Ana Sayfa</h2>
+<table class="table table-bordered mt-3">
+    <tr>
+        <th>Id</th>
+        <th>İsim</th>
+        <th>Güncelle</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.ID</td>
+            <td>@item.Name</td>
+            <td><a href="/Admin/GetHomePage/@item.ID" class="btn btn-primary">Güncelle</a></td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,10 @@
+﻿@using PersonalWebPageProject.Models.Entities
+@model List<Icon>
+
+
+<div class="social">
+    @foreach (var item in Model)
+    {
+        <a href="@item.Link"><i class="@item.IconPic"></i></a>
+    }
+</div>

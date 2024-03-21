@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_3\\PersonalWebPageProject\\PersonalWebPageProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF156AB6-7CFF-444C-97D6-43E35B20FF3A}|PersonalWebPageProject\\PersonalWebPageProject.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_3\\personalwebpageproject\\personalwebpageproject\\personalwebpageproject\\web-kisiselwebsitesi\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AF156AB6-7CFF-444C-97D6-43E35B20FF3A}|PersonalWebPageProject\\PersonalWebPageProject.csproj|solutionrelative:personalwebpageproject\\web-kisiselwebsitesi\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF156AB6-7CFF-444C-97D6-43E35B20FF3A}|PersonalWebPageProject\\PersonalWebPageProject.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_3\\personalwebpageproject\\personalwebpageproject\\personalwebpageproject\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF156AB6-7CFF-444C-97D6-43E35B20FF3A}|PersonalWebPageProject\\PersonalWebPageProject.csproj|solutionrelative:personalwebpageproject\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF156AB6-7CFF-444C-97D6-43E35B20FF3A}|PersonalWebPageProject\\PersonalWebPageProject.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_3\\personalwebpageproject\\personalwebpageproject\\personalwebpageproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF156AB6-7CFF-444C-97D6-43E35B20FF3A}|PersonalWebPageProject\\PersonalWebPageProject.csproj|solutionrelative:personalwebpageproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF156AB6-7CFF-444C-97D6-43E35B20FF3A}|PersonalWebPageProject\\PersonalWebPageProject.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_3\\personalwebpageproject\\personalwebpageproject\\personalwebpageproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AF156AB6-7CFF-444C-97D6-43E35B20FF3A}|PersonalWebPageProject\\PersonalWebPageProject.csproj|solutionrelative:personalwebpageproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF156AB6-7CFF-444C-97D6-43E35B20FF3A}|PersonalWebPageProject\\PersonalWebPageProject.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_3\\personalwebpageproject\\personalwebpageproject\\personalwebpageproject\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF156AB6-7CFF-444C-97D6-43E35B20FF3A}|PersonalWebPageProject\\PersonalWebPageProject.csproj|solutionrelative:personalwebpageproject\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF156AB6-7CFF-444C-97D6-43E35B20FF3A}|PersonalWebPageProject\\PersonalWebPageProject.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_3\\personalwebpageproject\\personalwebpageproject\\personalwebpageproject\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF156AB6-7CFF-444C-97D6-43E35B20FF3A}|PersonalWebPageProject\\PersonalWebPageProject.csproj|solutionrelative:personalwebpageproject\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF156AB6-7CFF-444C-97D6-43E35B20FF3A}|PersonalWebPageProject\\PersonalWebPageProject.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_3\\personalwebpageproject\\personalwebpageproject\\personalwebpageproject\\views\\admin\\geticons.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF156AB6-7CFF-444C-97D6-43E35B20FF3A}|PersonalWebPageProject\\PersonalWebPageProject.csproj|solutionrelative:personalwebpageproject\\views\\admin\\geticons.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF156AB6-7CFF-444C-97D6-43E35B20FF3A}|PersonalWebPageProject\\PersonalWebPageProject.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_3\\personalwebpageproject\\personalwebpageproject\\personalwebpageproject\\views\\admin\\getanicon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF156AB6-7CFF-444C-97D6-43E35B20FF3A}|PersonalWebPageProject\\PersonalWebPageProject.csproj|solutionrelative:personalwebpageproject\\views\\admin\\getanicon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF156AB6-7CFF-444C-97D6-43E35B20FF3A}|PersonalWebPageProject\\PersonalWebPageProject.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_3\\personalwebpageproject\\personalwebpageproject\\personalwebpageproject\\views\\admin\\addicon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF156AB6-7CFF-444C-97D6-43E35B20FF3A}|PersonalWebPageProject\\PersonalWebPageProject.csproj|solutionrelative:personalwebpageproject\\views\\admin\\addicon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_3\\PersonalWebPageProject\\PersonalWebPageProject\\PersonalWebPageProject\\web-KisiselWebSitesi\\style.css",
+              "RelativeDocumentMoniker": "PersonalWebPageProject\\web-KisiselWebSitesi\\style.css",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_3\\PersonalWebPageProject\\PersonalWebPageProject\\PersonalWebPageProject\\web-KisiselWebSitesi\\style.css",
+              "RelativeToolTip": "PersonalWebPageProject\\web-KisiselWebSitesi\\style.css",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-21T21:53:20.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_3\\PersonalWebPageProject\\PersonalWebPageProject\\PersonalWebPageProject\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "PersonalWebPageProject\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_3\\PersonalWebPageProject\\PersonalWebPageProject\\PersonalWebPageProject\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "PersonalWebPageProject\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T21:50:41.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_3\\PersonalWebPageProject\\PersonalWebPageProject\\PersonalWebPageProject\\Web.config",
+              "RelativeDocumentMoniker": "PersonalWebPageProject\\Web.config",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_3\\PersonalWebPageProject\\PersonalWebPageProject\\PersonalWebPageProject\\Web.config",
+              "RelativeToolTip": "PersonalWebPageProject\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-21T21:48:43.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_3\\PersonalWebPageProject\\PersonalWebPageProject\\PersonalWebPageProject\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "PersonalWebPageProject\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_3\\PersonalWebPageProject\\PersonalWebPageProject\\PersonalWebPageProject\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "PersonalWebPageProject\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T21:37:09.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_3\\PersonalWebPageProject\\PersonalWebPageProject\\PersonalWebPageProject\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "PersonalWebPageProject\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_3\\PersonalWebPageProject\\PersonalWebPageProject\\PersonalWebPageProject\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "PersonalWebPageProject\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T21:34:26.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetanIcon.cshtml",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_3\\PersonalWebPageProject\\PersonalWebPageProject\\PersonalWebPageProject\\Views\\Admin\\GetanIcon.cshtml",
+              "RelativeDocumentMoniker": "PersonalWebPageProject\\Views\\Admin\\GetanIcon.cshtml",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_3\\PersonalWebPageProject\\PersonalWebPageProject\\PersonalWebPageProject\\Views\\Admin\\GetanIcon.cshtml",
+              "RelativeToolTip": "PersonalWebPageProject\\Views\\Admin\\GetanIcon.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T21:28:04.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddIcon.cshtml",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_3\\PersonalWebPageProject\\PersonalWebPageProject\\PersonalWebPageProject\\Views\\Admin\\AddIcon.cshtml",
+              "RelativeDocumentMoniker": "PersonalWebPageProject\\Views\\Admin\\AddIcon.cshtml",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_3\\PersonalWebPageProject\\PersonalWebPageProject\\PersonalWebPageProject\\Views\\Admin\\AddIcon.cshtml",
+              "RelativeToolTip": "PersonalWebPageProject\\Views\\Admin\\AddIcon.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T21:19:12.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetIcons.cshtml",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_3\\PersonalWebPageProject\\PersonalWebPageProject\\PersonalWebPageProject\\Views\\Admin\\GetIcons.cshtml",
+              "RelativeDocumentMoniker": "PersonalWebPageProject\\Views\\Admin\\GetIcons.cshtml",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_3\\PersonalWebPageProject\\PersonalWebPageProject\\PersonalWebPageProject\\Views\\Admin\\GetIcons.cshtml",
+              "RelativeToolTip": "PersonalWebPageProject\\Views\\Admin\\GetIcons.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T21:10:24.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_3\\PersonalWebPageProject\\PersonalWebPageProject\\PersonalWebPageProject\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "PersonalWebPageProject\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_3\\PersonalWebPageProject\\PersonalWebPageProject\\PersonalWebPageProject\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "PersonalWebPageProject\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T21:07:55.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

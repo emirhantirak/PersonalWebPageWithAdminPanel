@@ -1,0 +1,29 @@
+﻿@using PersonalWebPageProject.Models.Entities
+@model List<Icon>
+
+@{
+    ViewBag.Title = "GetIcons";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2 class="mb-4">İkonlar Sayfası</h2>
+<table class="table table-bordered">
+    <tr>
+        <th>Id</th>
+        <th>İkon</th>
+        <th>Güncelle</th>
+        <th>Sil</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.ID</td>
+            <td><i class="@item.IconPic"></i></td>
+            <td><a href="/Admin/GetanIcon/@item.ID" class="btn btn-primary">Güncelle</a></td>
+            <td><a href="/Admin/DeleteIcon/@item.ID" class="btn btn-danger">Sil</a></td>
+        </tr>
+    }
+</table>
+<a href="/Admin/AddIcon" class="btn btn-primary">Yeni İkon Ekle</a>
+

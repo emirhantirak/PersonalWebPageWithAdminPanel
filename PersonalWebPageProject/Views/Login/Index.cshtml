@@ -1,0 +1,36 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Panel Login</title>
+    <link rel="stylesheet" href="~/web-Admin_Login/style.css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="contact-form">
+            <img style="max-width: 200px;" class="imgAdmin" src="https://i.hizliresim.com/evem82b.png" alt="admin_profile_picture">
+            <h2>Admin Login</h2>
+            @using (Html.BeginForm("Index", "Login", FormMethod.Post))
+            {
+                <div class="textBox">
+                    <input type="text" name="Username" placeholder="Username">
+                </div>
+                <div class="textBox">
+                    <input type="password" name="Password" placeholder="Password">
+                </div>
+                <input type="submit" class="logBtn" value="Login">
+            }
+
+
+        </div>
+    </div>
+
+</body>
+</html>

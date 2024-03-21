@@ -1,0 +1,30 @@
+﻿@model PersonalWebPageProject.Models.Entities.Homepage
+@{
+    ViewBag.Title = "GetHomePage";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@using (Html.BeginForm("UpdateHomePage", "Admin", FormMethod.Post))
+{
+    @Html.LabelFor(x => x.ID)
+    @Html.TextBoxFor(x => x.ID, new { @class = "form-control", @readonly = "readonly" })
+    <br />
+    @Html.LabelFor(x => x.Name)
+    @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.Profile)
+    @Html.TextBoxFor(x => x.Profile, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.Definition)
+    @Html.TextAreaFor(x => x.Definition, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.Title)
+    @Html.TextBoxFor(x => x.Title, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.Contact)
+    @Html.TextBoxFor(x => x.Contact, new { @class = "form-control" })
+    <br />
+    <button class="btn btn-success">Ana Sayfa Güncelle</button>
+
+}
+
